@@ -1,4 +1,4 @@
-# React-Calculator
+# React-CryptoMania
 
 this project was made entirely with React JS framework and React router DOM and Styled-Components, with the objective to made a CryptoCurrency list with the 100 principals coins in market, i used two [CoinGecko](https://www.coingecko.com) Apis to receive datas.
 
