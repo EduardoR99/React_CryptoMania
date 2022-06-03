@@ -19,5 +19,5 @@ this project was made entirely with React JS framework and React router DOM and 
 ### To Install
 - `npm install`
 
-### Para rodar 
+### To Run
 - `npm run start`
