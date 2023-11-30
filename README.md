@@ -1,6 +1,6 @@
 # React-CryptoMania
 
-this project was made entirely with React JS framework and React router DOM and Styled-Components, with the objective to made a CryptoCurrency list with the 100 principals coins in market, i used two [CoinGecko](https://www.coingecko.com) Apis to receive datas.
+this project was made entirely using React JS framework, React router DOM and Styled-Components, with the objective to create a CryptoCurrency list with the 100 principals coins in the market, i used two [CoinGecko](https://www.coingecko.com) Apis to receive data.
 
 [Click Here](https://crypto-mania-edr.netlify.app) to go
 
